@@ -8,6 +8,6 @@ public string AccountNumber { get; set; } = "";
 public void Depoesit(int amount)
     {
         System.Console.WriteLine("Nisse was here!");
-
+        System.Console.WriteLine("Opppps inte bra");
     }
 }
